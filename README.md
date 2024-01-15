@@ -10,6 +10,7 @@
   - +7-911-160-87-24
   - hanunagrez@yandex.ru
   - <a href="https://discordapp.com/users/300201772318720001/">Discord<a/>
+  - telegram: [@Hanunagrez](https://t.me/Hanunagrez)
 ***
 ### :hammer_and_wrench: Languages and Tools :
 <div>
