@@ -36,6 +36,7 @@
 
 ### :briefcase: My Projects and achievements:
 https://rolling-scopes-school.github.io/hanunagrez-JSFE2023Q4/
+https://rolling-scopes-school.github.io/hanunagrez-JSFE2023Q4/hangman/
 <div>
   <img src="https://codewars.com/users/hanunagrez/badges/small/"/>&nbsp;
 </div>
