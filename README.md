@@ -35,7 +35,7 @@
 ***
 
 ### :briefcase: My Projects and achievements:
-https://rolling-scopes-school.github.io/hanunagrez-JSFE2023Q4/
+https://hanunagrez.github.io/coffee-house/
 
 https://rolling-scopes-school.github.io/hanunagrez-JSFE2023Q4/hangman/
 
