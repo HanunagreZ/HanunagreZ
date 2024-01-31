@@ -38,7 +38,7 @@
 ### :briefcase: My Projects and achievements:
 https://hanunagrez.github.io/coffee-house/
 
-https://rolling-scopes-school.github.io/hanunagrez-JSFE2023Q4/hangman/
+https://hanunagrez.github.io/hangman/
 
 https://hanunagrez.github.io/clean-code-s1e1/
 <div>
