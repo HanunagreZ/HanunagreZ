@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/HanunagreZ/HanunagreZ/assets/94462853/24250f20-38b5-4e62-a70c-6e53bb5d71f1" title="Me" alt="Me" width="200" height="200"/>&nbsp;
-</div>
-
 ### Hi 👋 I'm a frontend developer
 - :chart_with_upwards_trend: I’m currently study full time
 - :computer: Love solving problems
