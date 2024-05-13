@@ -32,6 +32,9 @@
 ***
 
 ### :briefcase: My Projects and achievements:
+
+https://hanunagrez.github.io/cv-projects/news-api/
+
 https://hanunagrez.github.io/nonogram/
 
 https://hanunagrez.github.io/coffee-house/
