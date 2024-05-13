@@ -39,7 +39,5 @@ https://hanunagrez.github.io/coffee-house/
 https://hanunagrez.github.io/hangman/
 
 https://hanunagrez.github.io/clean-code-s1e1/
-<div>
-  <img src="https://codewars.com/users/hanunagrez/badges/small/"/>&nbsp;
-</div>
+ 
 
