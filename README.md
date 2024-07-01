@@ -37,6 +37,8 @@
 
 E-commerse app: https://github.com/HanunagreZ/eCommerce-app
 
+https://hanunagrez.github.io/weather-app/
+
 https://hanunagrez.github.io/cv-projects/news-api/
 
 https://hanunagrez.github.io/nonogram/
