@@ -33,20 +33,15 @@
 -->
 ***
 
-### :briefcase: My Projects and achievements:
+### :briefcase: My Projects:
 
-E-commerse app: https://github.com/HanunagreZ/eCommerce-app
 
-https://hanunagrez.github.io/weather-app/
 
-https://hanunagrez.github.io/cv-projects/news-api/
+Canvas ✏️ : https://hanunagrez.github.io/canvas-paint/
 
-https://hanunagrez.github.io/nonogram/
+Weather-app 🌞: https://hanunagrez.github.io/weather-app/
 
-https://hanunagrez.github.io/coffee-house/
+E-commerse-app 💼: https://github.com/HanunagreZ/eCommerce-app
 
-https://hanunagrez.github.io/hangman/
-
-https://hanunagrez.github.io/clean-code-s1e1/
  
 
