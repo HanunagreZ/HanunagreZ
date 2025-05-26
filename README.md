@@ -1,5 +1,4 @@
 ### Hi 👋 I'm a frontend developer
-- :chart_with_upwards_trend: I’m currently study full time
 - :computer: Love solving problems
 - ⚡ Fun fact: my first code was on Libre Office Basic
 - :pencil: How to reach me:
