@@ -40,7 +40,13 @@ Canvas ✏️ : https://hanunagrez.github.io/canvas-paint/
 
 Weather-app 🌞: https://hanunagrez.github.io/weather-app/
 
+Tailwind-card 📃: https://tailwind-html-card.netlify.app/
+
+Kanban-board 🍉: https://dnd-kanban-test.netlify.app/
+
 E-commerse-app 💼: https://github.com/HanunagreZ/eCommerce-app
+
+
 
  
 
